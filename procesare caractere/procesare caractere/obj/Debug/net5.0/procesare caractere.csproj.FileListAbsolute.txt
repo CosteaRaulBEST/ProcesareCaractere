@@ -1,0 +1,16 @@
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.exe
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.deps.json
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.runtimeconfig.json
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.runtimeconfig.dev.json
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.dll
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\bin\Debug\net5.0\procesare caractere.pdb
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.csproj.AssemblyReference.cache
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.AssemblyInfoInputs.cache
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.AssemblyInfo.cs
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.csproj.CoreCompileInputs.cache
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.dll
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\refint\procesare caractere.dll
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.pdb
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\procesare caractere.genruntimeconfig.cache
+E:\visualstudio\Geometrie Computationala\procesare caractere\procesare caractere\obj\Debug\net5.0\ref\procesare caractere.dll
